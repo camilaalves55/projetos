@@ -1,0 +1,15 @@
+h2{
+	color: black;
+	background-color: hsl(328, 100%, 54%);
+	font-style: italic;
+}
+
+.minhadiv{
+	color: #FF1493;
+}
+
+.quadrado{
+	background: #ef63ad
+	width: 20px;
+	heigth: 20px;
+}

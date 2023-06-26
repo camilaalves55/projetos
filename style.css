@@ -1,0 +1,16 @@
+h2{
+	color: black;
+	background-color: purple;
+	font-style: italic;
+}
+
+.minhadiv{
+	color: pink;
+}
+
+.quadrado{
+	padding-top:1px
+	background: purple;
+	width: 100px;
+	heigth: 1000px;
+}

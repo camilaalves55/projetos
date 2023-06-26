@@ -1,0 +1,15 @@
+<html>
+	<head>
+		<title>
+			Inserindo links no HTML =)
+		</title>
+	</head>
+	<body>
+		<p>
+			<h1> Inserindo Links </h1>
+		</p>
+		<p>
+			<img scr="imagem_paris.jpg">
+		</p>
+	</body>
+</html> 

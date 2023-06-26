@@ -1,0 +1,15 @@
+﻿<html>
+	<head>
+		<title>
+			Inserindo imagens no html
+		</title>
+	</head>
+	<body>
+		<p>
+			Inserindo imagens no html
+		</p>
+		<p>
+			<img src="imagem_paris.jpeg" width="400px'>
+		</p>
+	</body>
+</html>

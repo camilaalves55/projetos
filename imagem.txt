@@ -1,0 +1,15 @@
+<html>
+	<head>
+		<title>
+			Inserindo imagens no html
+		</title>
+	</head>
+	<body>
+		<p>
+			Inserindo imagens no html
+		</p>
+		<p>
+			<img src="imagem.jiff">
+		</p>
+	</body>
+</html>
